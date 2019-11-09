@@ -34,6 +34,22 @@
     }
 }
 
+.lightBoxImage
+{
+    position: absolute;
+    width: 20%;
+    right: 45%;
+    top: 20%;
+}
+
+.lb-content
+{
+    position: absolute;
+    width: 20%;
+    right: 40%;
+    top: 47%; 
+}
+
 .show-lb { display: flex !important; }
 
 .u-social {
